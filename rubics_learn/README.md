@@ -7,9 +7,9 @@ Open terminal and copy the following instructions:
 
 ## Play
 
-Write your mix sequence in the text file `w/rubix_learn/mix.txt` with your
+Write your mix sequence in the text file `w/rubics_learn/mix.txt` with your
 favorite editor and save it. Then play with the following instructions:
 
-    cd w/rubix_learn
+    cd w/rubics_learn
     python3 mix.py
 
